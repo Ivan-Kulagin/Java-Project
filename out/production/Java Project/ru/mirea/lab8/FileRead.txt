@@ -1,0 +1,4 @@
+Any text
+in
+file
+FileRead.txt
