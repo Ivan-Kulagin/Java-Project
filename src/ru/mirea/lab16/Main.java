@@ -39,7 +39,6 @@ public class Main {
 	RestaurantOrder b = new RestaurantOrder();
 	b.add(d);
 	b.add(karbonara2);
-
 	System.out.println("---------");
 
 	OrderManager ordm = new OrderManager();
