@@ -23,7 +23,7 @@ public class ShirtTest {
         Shirt list[] = new Shirt[shirts.length];
         for (int i = 0; i < shirts.length; i++){
             list[i] = new Shirt(shirts[i]);
-            System.out.println("Товар №" + (i + 1) + "\n" + list[i]);
+            System.out.println("Товар № " + (i + 1) + "\n" + list[i]);
             if (i != shirts.length - 1){
                 System.out.println();
             }
