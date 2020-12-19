@@ -1,5 +1,7 @@
 package ru.mirea.lab12;
 
+import ru.mirea.lab12.Shirt;
+
 public class ShirtTest {
 
     public static void main(String[] args){
